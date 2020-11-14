@@ -1,0 +1,4 @@
+ 整合mybatis+spring+springmvc
+ 功能：
+ 1、查询全部用户
+ 2、添加一条用户
